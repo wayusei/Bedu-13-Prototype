@@ -19,5 +19,5 @@ Proyecto "SIRTEP" es la solución en desarrollo para controlar el aforo y utiliz
 
 ## Enlaces:
 
-- [Presentación](https://docs.google.com/presentation/d/1r7Mm6ty0Lj4CLH24z0i44MKPY-tzARPR5be-RMcBoDg/edit#slide=id.g98072d2428_1_10)
+- [Presentación](https://docs.google.com/presentation/d/1r7Mm6ty0Lj4CLH24z0i44MKPY-tzARPR5be-RMcBoDg/edit#slide=id.p1)
 
